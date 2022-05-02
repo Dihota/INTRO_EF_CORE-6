@@ -81,5 +81,18 @@ namespace EfPelicula.Controllers
                 .OrderByDescending(g => g.Nombre)
                 .ToList();
         }
+
+        //Proceso de paginacion con Skip y Take
+        [HttpGet("Paginacion")]
+        public async Task<ActionResult<IEnumerable<Genero>>> GetPaginacion(int pagina=1)
+        {
+            var CantidadRegistrosPorPagina = 2;
+            var Generos = await context.Generos
+                .Skip((pagina - 1) * CantidadRegistrosPorPagina)
+                .Take(CantidadRegistrosPorPagina)
+                .ToListAsync();
+
+            return Generos;
+        }
     }
 }
