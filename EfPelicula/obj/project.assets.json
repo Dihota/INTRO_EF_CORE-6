@@ -2063,11 +2063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hogar\\source\\repos\\Nueva carpeta\\EfPelicula\\EfPelicula.csproj",
+      "projectUniqueName": "C:\\Users\\Hogar\\source\\repos\\Proyectos_Intro_EF6\\Intro_EfC6\\EfPelicula\\EfPelicula.csproj",
       "projectName": "EfPelicula",
-      "projectPath": "C:\\Users\\Hogar\\source\\repos\\Nueva carpeta\\EfPelicula\\EfPelicula.csproj",
+      "projectPath": "C:\\Users\\Hogar\\source\\repos\\Proyectos_Intro_EF6\\Intro_EfC6\\EfPelicula\\EfPelicula.csproj",
       "packagesPath": "C:\\Users\\Hogar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hogar\\source\\repos\\Nueva carpeta\\EfPelicula\\obj\\",
+      "outputPath": "C:\\Users\\Hogar\\source\\repos\\Proyectos_Intro_EF6\\Intro_EfC6\\EfPelicula\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
