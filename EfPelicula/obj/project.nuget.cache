@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OGVK8tvHNq9Vaxvd5WdO8NfW+64hcLmB4EL1E7v8ItgBBcQeax5E16gbSVWZDzsxKLW/a+sxffXF2Iq/lK/nwA==",
+  "dgSpecHash": "zghvZUDjkIs47r6XqlWdQXZiDciL6tUw3y1te6lihXPPpxkNMTasLa5paYFgETieENZBoXSj8Ha398CKwj+scg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hogar\\source\\repos\\Nueva carpeta\\EfPelicula\\EfPelicula.csproj",
+  "projectFilePath": "C:\\Users\\Hogar\\source\\repos\\Proyectos_Intro_EF6\\Intro_EfC6\\EfPelicula\\EfPelicula.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hogar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hogar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

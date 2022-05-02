@@ -29,12 +29,13 @@ namespace EfPelicula
         }
 
         //Se agregan los dbset para indicar que son tablas de la BD
-        DbSet<Genero> Generos  { get; set; }
-        DbSet<Actor> Actores { get; set; }
-        DbSet<Cine> Cines { get; set; }
-        DbSet<Pelicula> Peliculas { get; set; }
-        DbSet<CineOferta> CineOfertas { get; set; }
-        DbSet<SalaCine> SalaCines { get; set; }
-        DbSet<PeliculaActor> PeliculaActores { get; set; }
+        public DbSet<Genero> Generos  { get; set; }
+        public DbSet<Actor> Actores { get; set; }
+        public DbSet<Cine> Cines { get; set; }
+        public DbSet<Pelicula> Peliculas { get; set; }
+        public DbSet<CineOferta> CineOfertas { get; set; }
+        public DbSet<SalaCine> SalaCines { get; set; }
+        public DbSet<PeliculaActor> PeliculaActores { get; set; }
+        
     }
 }

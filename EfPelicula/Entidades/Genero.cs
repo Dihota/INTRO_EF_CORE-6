@@ -9,5 +9,7 @@ namespace EfPelicula.Entidades
         public string Nombre { get; set; }
         //propiedad para la relacion muchos a muchos
         public HashSet<Pelicula> Pelicula { get; set; }
+
+ 
     }
 }
